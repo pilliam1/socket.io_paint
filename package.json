@@ -1,0 +1,29 @@
+{
+  "name": "web_socket",
+  "version": "1.0.0",
+  "description": "sockets example",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pilliam1/socket.io_paint.git"
+  },
+  "keywords": [
+    "sockets",
+    "p5",
+    "and",
+    "node"
+  ],
+  "author": "William Macleod",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pilliam1/socket.io_paint/issues"
+  },
+  "homepage": "https://github.com/pilliam1/socket.io_paint#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
